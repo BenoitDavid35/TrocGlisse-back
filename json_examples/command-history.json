@@ -1,0 +1,32 @@
+[
+  {
+    "id_command":"1",
+    "product":
+    [
+      {
+        "id":"1",
+        "picture":"assets/images/logo.png",
+        "name":"Planche de surf",
+        "description":"Une superbe planche de surf"
+      },
+      {
+        "id":"2",
+        "picture":"assets/images/avatar.png",
+        "name":"Combinaison de plongée",
+        "description":"Une superbe combinaison de plongée"
+      }
+    ]
+  },
+  {
+    "id_command":"2",
+    "product":
+    [
+      {
+        "id":"1",
+        "picture":"assets/images/logo.png",
+        "name":"Patate astygmate",
+        "description":"Une pomme de terre qui en voit rien"
+      }
+    ]
+  }
+]
